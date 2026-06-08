@@ -10,6 +10,17 @@
 
 </div>
 
+<div align="center">
+
+<!-- Contribution snake. Renders only AFTER the workflow in .github/workflows/snake.yml runs once (Actions tab > Generate Snake > Run workflow). -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ### 🧭 About
@@ -82,16 +93,6 @@ I'm a **lead data engineer** working at the intersection of **institutional real
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=GarvitSharma0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-<br/>
-
-<!-- Contribution snake. Renders only AFTER the workflow in .github/workflows/snake.yml runs once (Actions tab > Generate Snake > Run workflow). -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
