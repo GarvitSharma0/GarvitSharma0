@@ -77,20 +77,21 @@ I'm a **lead data engineer** working at the intersection of **institutional real
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Activity
 
 <div align="center">
-
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=GarvitSharma0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitSharma0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=GarvitSharma0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GarvitSharma0&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="Trophies" />
+<!-- Contribution snake. Renders only AFTER the workflow in .github/workflows/snake.yml runs once (Actions tab > Generate Snake > Run workflow). -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
