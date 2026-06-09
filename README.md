@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/.github/workflows/header.svg" alt="Garvit Sharma — Lead Data Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/main/.github/workflows/header.svg" alt="Garvit Sharma — Lead Data Engineer" width="100%" />
 
 <br/>
 
@@ -11,7 +11,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=GarvitSharma0&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/GarvitSharma0?style=for-the-badge&logo=github&logoColor=22D3EE&label=FOLLOWERS&labelColor=0D1117&color=0D1117" alt="Followers" />
 
 </div>
 
