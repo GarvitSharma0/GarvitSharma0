@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/main/assets/header.svg" alt="Garvit Sharma — Lead Data Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/.github/workflows/header.svg" alt="Garvit Sharma — Lead Data Engineer" width="100%" />
 
 <br/>
 
