@@ -1,12 +1,17 @@
 <div align="center">
 
-# Hi, I'm Garvit 👋
+<img src="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/main/assets/header.svg" alt="Garvit Sharma — Lead Data Engineer" width="100%" />
+
+<br/>
 
 <a href="https://github.com/GarvitSharma0">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Lead+Data+Engineer;Institutional+Real+Estate+Data+%26+Analytics;AI-Powered+Reporting+%26+Automation;Python+%7C+SQL+%7C+LLM+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+profile...;Lead+Data+Engineer+%40+Real+Estate+%C3%97+AI;Building+auditable+data+%26+reporting+systems;Python+%C2%B7+SQL+%C2%B7+dbt+%C2%B7+LLM+pipelines+%C2%B7+MCP" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=GarvitSharma0&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GarvitSharma0&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/GarvitSharma0?style=for-the-badge&logo=github&logoColor=22D3EE&label=FOLLOWERS&labelColor=0D1117&color=0D1117" alt="Followers" />
 
 </div>
 
@@ -23,86 +28,95 @@
 
 ---
 
-### 🧭 About
+## ❯ whoami
 
-I'm a **lead data engineer** working at the intersection of **institutional real estate, analytics, and automation**. I design and ship AI-powered tooling that turns slow, manual financial workflows into reliable, auditable pipelines.
+```yaml
+Garvit Sharma:
+  role:     Lead Data Engineer
+  domain:   [ Institutional Real Estate, Analytics, Automation ]
+  stack:    [ Python, SQL, dbt, Dagster, LLM pipelines ]
+  building: turning manual financial workflows into auditable systems
+  location: India   # 🌏
+```
 
-- 🏢 Building automation for **quarterly fund reporting** and **investor statement** workflows
-- 📊 Shipping **housing-market analytics** products — interactive dashboards over public economic data
-- 🤖 Heavy user of **LLM agent / skill frameworks** and the **Model Context Protocol (MCP)**
-- 🧮 Forecasting metro-level **housing demand & supply** with ML
-- 📍 Based in India
+I design and ship AI-powered tooling at the intersection of **institutional real estate, analytics, and automation** — turning slow, manual financial workflows into reliable, auditable pipelines.
 
 ---
 
-### 🛠️ What I'm building
+## ❯ projects.list()
 
-| Area | What it does |
-|------|--------------|
+| Module | What it does |
+|--------|--------------|
 | **Fund reporting automation** | Fills and QCs formula-driven quarterly reporting workbooks, with mechanical confidence scoring and reconciliation checks |
 | **Investor statement pipelines** | Multi-stage, human-in-the-loop systems that source answers from data warehouses and generate client deliverables |
-| **Housing analytics** | Interactive Plotly dashboards over FRED / Census / market data, built on a pressure-based indicator framework |
+| **Housing analytics** | Interactive dashboards over FRED / Census / market data, built on a pressure-based indicator framework |
 | **Demand / supply forecasting** | Metro-level ML pipelines across multiple data sources, evaluated against persistence baselines |
 | **News enrichment pipeline** | A scraper + LLM enrichment system that classifies and paraphrases real-estate news at scale |
 | **Pipeline architecture** | Lakehouse-style designs: object storage → orchestration → warehouse → dbt → semantic layer |
 
 ---
 
-### ⚙️ Tech Stack
-
-**Languages & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Data Engineering**
-
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=for-the-badge&logo=dagster&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**ML & Analytics**
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**AI / LLM**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge)
-
-**Tools & Platforms**
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Activity
+## ❯ stack.json
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=GarvitSharma0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+![Languages](https://img.shields.io/badge/❯_LANGUAGES-05060F?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4FC3F7)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=4FC3F7)
+
+![Data](https://img.shields.io/badge/❯_DATA_ENG-05060F?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=FF694B)
+![Dagster](https://img.shields.io/badge/Dagster-0D1117?style=for-the-badge&logo=dagster&logoColor=A78BFA)
+![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=66B5FF)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=66B5FF)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+
+![ML](https://img.shields.io/badge/❯_ML_+_ANALYTICS-05060F?style=for-the-badge)
+![pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E6E6E6)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=8FB7FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+![AI](https://img.shields.io/badge/❯_AI_/_LLM-05060F?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0D1117?style=for-the-badge&logoColor=22D3EE)
+
+![Platforms](https://img.shields.io/badge/❯_PLATFORMS-05060F?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=21A366)
+![Sheets](https://img.shields.io/badge/Sheets-0D1117?style=for-the-badge&logo=googlesheets&logoColor=34A853)
+![Airtable](https://img.shields.io/badge/Airtable-0D1117?style=for-the-badge&logo=airtable&logoColor=FFBF00)
+![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
 ---
 
-### 📫 Reach me
+## ❯ activity.log
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=GarvitSharma0&hide_border=true&background=05060F&stroke=16204A&ring=22D3EE&fire=A855F7&currStreakNum=E6F1FF&sideNums=E6F1FF&currStreakLabel=22D3EE&sideLabels=7DD3FC&dates=4B5B8A" alt="GitHub streak" />
+
+</div>
+
+---
+
+## ❯ connect()
+
+<div align="center">
 
 <a href="mailto:garvitsharma@oshodata.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 <a href="https://github.com/GarvitSharma0">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6F1FF" alt="GitHub" />
 </a>
+
+<br/><br/>
+
+<sub>⟢ designed as a data engineer's console — markdown, SVG & a bit of neon</sub>
+
+</div>
