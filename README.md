@@ -116,6 +116,5 @@ I design and ship AI-powered tooling at the intersection of **institutional real
 
 <br/><br/>
 
-<sub>⟢ designed as a data engineer's console — markdown, SVG & a bit of neon</sub>
 
 </div>
