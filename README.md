@@ -5,7 +5,11 @@
 </a>
 
 <a href="https://garvitsharma0.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-garvitsharma0.github.io-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0B0F14" alt="Portfolio - garvitsharma0.github.io" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/main/.github/assets/portfolio-card-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/main/.github/assets/portfolio-card-light.svg" />
+    <img src="https://raw.githubusercontent.com/GarvitSharma0/GarvitSharma0/main/.github/assets/portfolio-card-dark.svg" alt="Portfolio - garvitsharma0.github.io" width="820" />
+  </picture>
 </a>
 
 </div>
